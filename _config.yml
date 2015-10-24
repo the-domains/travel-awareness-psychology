@@ -1,0 +1,23 @@
+name: Travel Awareness Psychology
+favicon: null
+layout_spectrum: 0.9530972130596638
+typography_spectrum: 0.6788612168747932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5933525233995169
+  lightness: 0.7547839123290032
+  saturation: 0.29795276070944965
+  rhythmicContrast: 0.15975346649065614
+purpose: []
